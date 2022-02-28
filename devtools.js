@@ -44,7 +44,7 @@ export function setupDevtools(app, instance) {
         id: 'vue-api-store',
         label: 'Vue API Store',
         packageName: 'vue-api-store',
-        homePage: null,
+        homePage: 'https://github.com/Zadigo/vue-api-store',
         componentStateTypes: [STATETYPE],
         enableEarlyProxy: true,
         app
