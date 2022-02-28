@@ -1,0 +1,24 @@
+{
+  "name": "vue-session",
+  "version": "1.0.0",
+  "description": "A store that unifies all your APIs in on single place",
+  "main": "index.js",
+  "unpkg": "index.unpkg.js",
+  "esm": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zadigo/vue-api-store"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "api",
+    "plugin",
+    "vue-plugin"
+  ],
+  "author": "Pendenque John <pendenquejohn@gmail.com>",
+  "license": "ISC"
+}
